@@ -52,7 +52,7 @@ def pieces():
         computer = X
         human = 0
     return computer, human
-
+ 
 def new_board():
     '''Создает новую доску'''
     board = []
